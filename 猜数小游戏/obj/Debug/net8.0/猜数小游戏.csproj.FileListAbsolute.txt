@@ -1,0 +1,14 @@
+C:\Users\pzq\Desktop\1\猜数小游戏\obj\Debug\net8.0\猜数小游戏.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pzq\Desktop\1\猜数小游戏\obj\Debug\net8.0\猜数小游戏.AssemblyInfoInputs.cache
+C:\Users\pzq\Desktop\1\猜数小游戏\obj\Debug\net8.0\猜数小游戏.AssemblyInfo.cs
+C:\Users\pzq\Desktop\1\猜数小游戏\obj\Debug\net8.0\猜数小游戏.csproj.CoreCompileInputs.cache
+C:\Users\pzq\Desktop\1\猜数小游戏\bin\Debug\net8.0\猜数小游戏.exe
+C:\Users\pzq\Desktop\1\猜数小游戏\bin\Debug\net8.0\猜数小游戏.deps.json
+C:\Users\pzq\Desktop\1\猜数小游戏\bin\Debug\net8.0\猜数小游戏.runtimeconfig.json
+C:\Users\pzq\Desktop\1\猜数小游戏\bin\Debug\net8.0\猜数小游戏.dll
+C:\Users\pzq\Desktop\1\猜数小游戏\bin\Debug\net8.0\猜数小游戏.pdb
+C:\Users\pzq\Desktop\1\猜数小游戏\obj\Debug\net8.0\猜数小游戏.dll
+C:\Users\pzq\Desktop\1\猜数小游戏\obj\Debug\net8.0\refint\猜数小游戏.dll
+C:\Users\pzq\Desktop\1\猜数小游戏\obj\Debug\net8.0\猜数小游戏.pdb
+C:\Users\pzq\Desktop\1\猜数小游戏\obj\Debug\net8.0\猜数小游戏.genruntimeconfig.cache
+C:\Users\pzq\Desktop\1\猜数小游戏\obj\Debug\net8.0\ref\猜数小游戏.dll
