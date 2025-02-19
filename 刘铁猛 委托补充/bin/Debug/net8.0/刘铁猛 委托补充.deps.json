@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "刘铁猛 委托补充/1.0.0": {
+        "runtime": {
+          "刘铁猛 委托补充.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "刘铁猛 委托补充/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

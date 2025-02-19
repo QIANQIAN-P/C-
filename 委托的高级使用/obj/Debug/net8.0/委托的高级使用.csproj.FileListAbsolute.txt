@@ -1,0 +1,14 @@
+C:\Users\pzq\Desktop\1\委托的高级使用\bin\Debug\net8.0\委托的高级使用.exe
+C:\Users\pzq\Desktop\1\委托的高级使用\bin\Debug\net8.0\委托的高级使用.deps.json
+C:\Users\pzq\Desktop\1\委托的高级使用\bin\Debug\net8.0\委托的高级使用.runtimeconfig.json
+C:\Users\pzq\Desktop\1\委托的高级使用\bin\Debug\net8.0\委托的高级使用.dll
+C:\Users\pzq\Desktop\1\委托的高级使用\bin\Debug\net8.0\委托的高级使用.pdb
+C:\Users\pzq\Desktop\1\委托的高级使用\obj\Debug\net8.0\委托的高级使用.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pzq\Desktop\1\委托的高级使用\obj\Debug\net8.0\委托的高级使用.AssemblyInfoInputs.cache
+C:\Users\pzq\Desktop\1\委托的高级使用\obj\Debug\net8.0\委托的高级使用.AssemblyInfo.cs
+C:\Users\pzq\Desktop\1\委托的高级使用\obj\Debug\net8.0\委托的高级使用.csproj.CoreCompileInputs.cache
+C:\Users\pzq\Desktop\1\委托的高级使用\obj\Debug\net8.0\委托的高级使用.dll
+C:\Users\pzq\Desktop\1\委托的高级使用\obj\Debug\net8.0\refint\委托的高级使用.dll
+C:\Users\pzq\Desktop\1\委托的高级使用\obj\Debug\net8.0\委托的高级使用.pdb
+C:\Users\pzq\Desktop\1\委托的高级使用\obj\Debug\net8.0\委托的高级使用.genruntimeconfig.cache
+C:\Users\pzq\Desktop\1\委托的高级使用\obj\Debug\net8.0\ref\委托的高级使用.dll

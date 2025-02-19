@@ -1,0 +1,14 @@
+C:\Users\pzq\Desktop\1\刘铁猛 委托补充\bin\Debug\net8.0\刘铁猛 委托补充.exe
+C:\Users\pzq\Desktop\1\刘铁猛 委托补充\bin\Debug\net8.0\刘铁猛 委托补充.deps.json
+C:\Users\pzq\Desktop\1\刘铁猛 委托补充\bin\Debug\net8.0\刘铁猛 委托补充.runtimeconfig.json
+C:\Users\pzq\Desktop\1\刘铁猛 委托补充\bin\Debug\net8.0\刘铁猛 委托补充.dll
+C:\Users\pzq\Desktop\1\刘铁猛 委托补充\bin\Debug\net8.0\刘铁猛 委托补充.pdb
+C:\Users\pzq\Desktop\1\刘铁猛 委托补充\obj\Debug\net8.0\刘铁猛 委托补充.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pzq\Desktop\1\刘铁猛 委托补充\obj\Debug\net8.0\刘铁猛 委托补充.AssemblyInfoInputs.cache
+C:\Users\pzq\Desktop\1\刘铁猛 委托补充\obj\Debug\net8.0\刘铁猛 委托补充.AssemblyInfo.cs
+C:\Users\pzq\Desktop\1\刘铁猛 委托补充\obj\Debug\net8.0\刘铁猛 委托补充.csproj.CoreCompileInputs.cache
+C:\Users\pzq\Desktop\1\刘铁猛 委托补充\obj\Debug\net8.0\刘铁猛 委托补充.dll
+C:\Users\pzq\Desktop\1\刘铁猛 委托补充\obj\Debug\net8.0\refint\刘铁猛 委托补充.dll
+C:\Users\pzq\Desktop\1\刘铁猛 委托补充\obj\Debug\net8.0\刘铁猛 委托补充.pdb
+C:\Users\pzq\Desktop\1\刘铁猛 委托补充\obj\Debug\net8.0\刘铁猛 委托补充.genruntimeconfig.cache
+C:\Users\pzq\Desktop\1\刘铁猛 委托补充\obj\Debug\net8.0\ref\刘铁猛 委托补充.dll

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pzq\\Desktop\\1\\S7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{642B2F0D-5E5C-47B1-917A-D730C6E0E652}|S7.csproj|c:\\users\\pzq\\desktop\\1\\s7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B2F0D-5E5C-47B1-917A-D730C6E0E652}|S7.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642B2F0D-5E5C-47B1-917A-D730C6E0E652}|S7.csproj|c:\\users\\pzq\\desktop\\1\\s7\\helper\\s7helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B2F0D-5E5C-47B1-917A-D730C6E0E652}|S7.csproj|solutionrelative:helper\\s7helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642B2F0D-5E5C-47B1-917A-D730C6E0E652}|S7.csproj|C:\\Users\\pzq\\Desktop\\1\\S7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642B2F0D-5E5C-47B1-917A-D730C6E0E652}|S7.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642B2F0D-5E5C-47B1-917A-D730C6E0E652}|S7.csproj|c:\\users\\pzq\\desktop\\1\\s7\\models\\datagetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B2F0D-5E5C-47B1-917A-D730C6E0E652}|S7.csproj|solutionrelative:models\\datagetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642B2F0D-5E5C-47B1-917A-D730C6E0E652}|S7.csproj|c:\\users\\pzq\\desktop\\1\\s7\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{642B2F0D-5E5C-47B1-917A-D730C6E0E652}|S7.csproj|solutionrelative:config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642B2F0D-5E5C-47B1-917A-D730C6E0E652}|S7.csproj|c:\\users\\pzq\\desktop\\1\\s7\\helper\\hlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B2F0D-5E5C-47B1-917A-D730C6E0E652}|S7.csproj|solutionrelative:helper\\hlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "S7Helper.cs",
+              "DocumentMoniker": "C:\\Users\\pzq\\Desktop\\1\\S7\\Helper\\S7Helper.cs",
+              "RelativeDocumentMoniker": "Helper\\S7Helper.cs",
+              "ToolTip": "C:\\Users\\pzq\\Desktop\\1\\S7\\Helper\\S7Helper.cs",
+              "RelativeToolTip": "Helper\\S7Helper.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAcwIsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:54:07.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HLog.cs",
+              "DocumentMoniker": "C:\\Users\\pzq\\Desktop\\1\\S7\\Helper\\HLog.cs",
+              "RelativeDocumentMoniker": "Helper\\HLog.cs",
+              "ToolTip": "C:\\Users\\pzq\\Desktop\\1\\S7\\Helper\\HLog.cs",
+              "RelativeToolTip": "Helper\\HLog.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:52:04.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataGetModel.cs",
+              "DocumentMoniker": "C:\\Users\\pzq\\Desktop\\1\\S7\\Models\\DataGetModel.cs",
+              "RelativeDocumentMoniker": "Models\\DataGetModel.cs",
+              "ToolTip": "C:\\Users\\pzq\\Desktop\\1\\S7\\Models\\DataGetModel.cs",
+              "RelativeToolTip": "Models\\DataGetModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T05:06:53.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "config.ini",
+              "DocumentMoniker": "C:\\Users\\pzq\\Desktop\\1\\S7\\config.ini",
+              "RelativeDocumentMoniker": "config.ini",
+              "ToolTip": "C:\\Users\\pzq\\Desktop\\1\\S7\\config.ini",
+              "RelativeToolTip": "config.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2025-02-19T04:50:15.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pzq\\Desktop\\1\\S7\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\pzq\\Desktop\\1\\S7\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:57:13.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\pzq\\Desktop\\1\\S7\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\pzq\\Desktop\\1\\S7\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:54:58.277Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

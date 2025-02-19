@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pzq\\Desktop\\1\\TouchSocket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B45AE549-20E8-43E6-B959-137E96B0DF5A}|SerialPortPro\\TouchSocket.csproj|C:\\Users\\pzq\\Desktop\\1\\TouchSocket\\serialportpro\\\u7F51\u7EDC\u901A\u4FE1\u52A9\u624B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45AE549-20E8-43E6-B959-137E96B0DF5A}|SerialPortPro\\TouchSocket.csproj|solutionrelative:serialportpro\\\u7F51\u7EDC\u901A\u4FE1\u52A9\u624B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45AE549-20E8-43E6-B959-137E96B0DF5A}|SerialPortPro\\TouchSocket.csproj|c:\\users\\pzq\\desktop\\1\\touchsocket\\serialportpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45AE549-20E8-43E6-B959-137E96B0DF5A}|SerialPortPro\\TouchSocket.csproj|solutionrelative:serialportpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45AE549-20E8-43E6-B959-137E96B0DF5A}|SerialPortPro\\TouchSocket.csproj|C:\\Users\\pzq\\Desktop\\1\\TouchSocket\\serialportpro\\\u7F51\u7EDC\u901A\u4FE1\u52A9\u624B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B45AE549-20E8-43E6-B959-137E96B0DF5A}|SerialPortPro\\TouchSocket.csproj|solutionrelative:serialportpro\\\u7F51\u7EDC\u901A\u4FE1\u52A9\u624B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45AE549-20E8-43E6-B959-137E96B0DF5A}|SerialPortPro\\TouchSocket.csproj|C:\\Users\\pzq\\Desktop\\1\\TouchSocket\\serialportpro\\models\\faker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45AE549-20E8-43E6-B959-137E96B0DF5A}|SerialPortPro\\TouchSocket.csproj|solutionrelative:serialportpro\\models\\faker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pzq\\Desktop\\1\\TouchSocket\\SerialPortPro\\Program.cs",
+              "RelativeDocumentMoniker": "SerialPortPro\\Program.cs",
+              "ToolTip": "C:\\Users\\pzq\\Desktop\\1\\TouchSocket\\SerialPortPro\\Program.cs",
+              "RelativeToolTip": "SerialPortPro\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:51:38.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Faker.cs",
+              "DocumentMoniker": "C:\\Users\\pzq\\Desktop\\1\\TouchSocket\\SerialPortPro\\Models\\Faker.cs",
+              "RelativeDocumentMoniker": "SerialPortPro\\Models\\Faker.cs",
+              "ToolTip": "C:\\Users\\pzq\\Desktop\\1\\TouchSocket\\SerialPortPro\\Models\\Faker.cs",
+              "RelativeToolTip": "SerialPortPro\\Models\\Faker.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:25:46.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u7F51\u7EDC\u901A\u4FE1\u52A9\u624B.cs",
+              "DocumentMoniker": "C:\\Users\\pzq\\Desktop\\1\\TouchSocket\\SerialPortPro\\\u7F51\u7EDC\u901A\u4FE1\u52A9\u624B.cs",
+              "RelativeDocumentMoniker": "SerialPortPro\\\u7F51\u7EDC\u901A\u4FE1\u52A9\u624B.cs",
+              "ToolTip": "C:\\Users\\pzq\\Desktop\\1\\TouchSocket\\SerialPortPro\\\u7F51\u7EDC\u901A\u4FE1\u52A9\u624B.cs",
+              "RelativeToolTip": "SerialPortPro\\\u7F51\u7EDC\u901A\u4FE1\u52A9\u624B.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAcwH0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:21:27.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u7F51\u7EDC\u901A\u4FE1\u52A9\u624B.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\pzq\\Desktop\\1\\TouchSocket\\SerialPortPro\\\u7F51\u7EDC\u901A\u4FE1\u52A9\u624B.cs",
+              "RelativeDocumentMoniker": "SerialPortPro\\\u7F51\u7EDC\u901A\u4FE1\u52A9\u624B.cs",
+              "ToolTip": "C:\\Users\\pzq\\Desktop\\1\\TouchSocket\\SerialPortPro\\\u7F51\u7EDC\u901A\u4FE1\u52A9\u624B.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SerialPortPro\\\u7F51\u7EDC\u901A\u4FE1\u52A9\u624B.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:52:29.207Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

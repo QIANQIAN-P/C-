@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>C_刘铁锰委托练习</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="LIANXI\**" />
+    <EmbeddedResource Remove="LIANXI\**" />
+    <None Remove="LIANXI\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Program.cs" />
+    <Compile Remove="模块化\模块化举例.cs" />
+    <Compile Remove="自定义委托Delegate.cs" />
+  </ItemGroup>
+
+</Project>

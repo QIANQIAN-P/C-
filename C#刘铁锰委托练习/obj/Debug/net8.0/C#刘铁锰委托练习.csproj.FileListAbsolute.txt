@@ -1,0 +1,14 @@
+C:\Users\pzq\Desktop\1\C#刘铁锰委托练习\bin\Debug\net8.0\C#刘铁锰委托练习.exe
+C:\Users\pzq\Desktop\1\C#刘铁锰委托练习\bin\Debug\net8.0\C#刘铁锰委托练习.deps.json
+C:\Users\pzq\Desktop\1\C#刘铁锰委托练习\bin\Debug\net8.0\C#刘铁锰委托练习.runtimeconfig.json
+C:\Users\pzq\Desktop\1\C#刘铁锰委托练习\bin\Debug\net8.0\C#刘铁锰委托练习.dll
+C:\Users\pzq\Desktop\1\C#刘铁锰委托练习\bin\Debug\net8.0\C#刘铁锰委托练习.pdb
+C:\Users\pzq\Desktop\1\C#刘铁锰委托练习\obj\Debug\net8.0\C#刘铁锰委托练习.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pzq\Desktop\1\C#刘铁锰委托练习\obj\Debug\net8.0\C#刘铁锰委托练习.AssemblyInfoInputs.cache
+C:\Users\pzq\Desktop\1\C#刘铁锰委托练习\obj\Debug\net8.0\C#刘铁锰委托练习.AssemblyInfo.cs
+C:\Users\pzq\Desktop\1\C#刘铁锰委托练习\obj\Debug\net8.0\C#刘铁锰委托练习.csproj.CoreCompileInputs.cache
+C:\Users\pzq\Desktop\1\C#刘铁锰委托练习\obj\Debug\net8.0\C#刘铁锰委托练习.dll
+C:\Users\pzq\Desktop\1\C#刘铁锰委托练习\obj\Debug\net8.0\refint\C#刘铁锰委托练习.dll
+C:\Users\pzq\Desktop\1\C#刘铁锰委托练习\obj\Debug\net8.0\C#刘铁锰委托练习.pdb
+C:\Users\pzq\Desktop\1\C#刘铁锰委托练习\obj\Debug\net8.0\C#刘铁锰委托练习.genruntimeconfig.cache
+C:\Users\pzq\Desktop\1\C#刘铁锰委托练习\obj\Debug\net8.0\ref\C#刘铁锰委托练习.dll
